@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1632749042303-7f7a18ed6ff0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z2FtaW5nJTIwcGN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"/></a>
+<a href="#"><img width="100%" height="100%" src="https://images.unsplash.com/photo-1632749042303-7f7a18ed6ff0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Z2FtaW5nJTIwcGN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm shaffinX</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Pakistan.</h3>
