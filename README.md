@@ -63,10 +63,10 @@
 ## Connect with me:
 <p align="left">
 
-<!-- <a href = "https://www.linkedin.com/in/shaffinX-720761247/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MusaddiqAshfaq" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/musaddiqashfaq/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="http://shaffinX.github.io/Portfolio" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/google-logo.png"/> -->
+<a href = "https://www.linkedin.com/in/shaffin-imam-036381265" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://instagram.com/shaffinx?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://instagram.com/shaffinx?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href="http://shaffinX.github.io/Portfolio" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/google-logo.png"/> -->
 
 
 
