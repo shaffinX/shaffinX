@@ -64,7 +64,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shaffin-imam-036381265" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://instagram.com/shaffinx?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/Code_SXc?t=gwUHUkTmB1Vy6cDz5qVb_A&s=08" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/shaffinx?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href="http://shaffinX.github.io/Portfolio" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/google-logo.png"/> -->
 
