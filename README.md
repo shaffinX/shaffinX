@@ -123,21 +123,47 @@ I am **Shaffin Imam**, an innovative and detail-oriented **Full Stack Developer*
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shaffin-imam-036381265" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/Code_SXc?t=gwUHUkTmB1Vy6cDz5qVb_A&s=08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/shaffinx?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:imamshaffin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="www.shaffinx.works">
-    <img src="https://w7.pngwing.com/pngs/357/433/png-transparent-computer-icons-website-web-design-logo-grey.png" alt="Gmail" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.linkedin.com/in/shaffin-imam-036381265" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" />
+        </a>
+        <br><strong>LinkedIn</strong>
+      </td>
+      <td align="center" width="96">
+        <a href="https://twitter.com/Code_SXc?t=gwUHUkTmB1Vy6cDz5qVb_A&s=08" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/twitter--v1.png" alt="Twitter" />
+        </a>
+        <br><strong>Twitter</strong>
+      </td>
+      <td align="center" width="96">
+        <a href="https://instagram.com/shaffinx?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram" />
+        </a>
+        <br><strong>Instagram</strong>
+      </td>
+      <td align="center" width="96">
+        <a href="mailto:imamshaffin@gmail.com">
+          <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" />
+        </a>
+        <br><strong>Gmail</strong>
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.shaffinx.works" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/domain.png" alt="Portfolio" />
+        </a>
+        <br><strong>Portfolio</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <br>
+  <h3>🚀 Let's build something amazing together!</h3>
+  <p>📧 <strong>Email:</strong> imamshaffin@gmail.com</p>
+  <p>🌐 <strong>Portfolio:</strong> <a href="https://www.shaffinx.works">www.shaffinx.works</a></p>
+  <p>📍 <strong>Location:</strong> Islamabad, Pakistan</p>
 </div>
 
 ---
