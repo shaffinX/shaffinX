@@ -135,6 +135,9 @@ I am **Shaffin Imam**, an innovative and detail-oriented **Full Stack Developer*
   <a href="mailto:imamshaffin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="www.shaffinx.works">
+    <img src="https://w7.pngwing.com/pngs/357/433/png-transparent-computer-icons-website-web-design-logo-grey.png" alt="Gmail" />
+  </a>
 </div>
 
 ---
